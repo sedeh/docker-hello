@@ -4,7 +4,7 @@ This repo demonstrates a basic docker app.
  
 Clone the repo and follow these steps to build and run the app:
 
-1. Move into the directory containing Dockerfile: `cd /path/to/repo/main` (pseudo-code, please change)
+1. Move into `main`: `cd /path/to/repo/main` (pseudo-code, please change)
 2. Build the app: `docker build --tag helloapp:1.0 .`
 3. Run the app `docker run --detach -p 5000:8080 --name test helloapp:1.0`
 
