@@ -4,7 +4,7 @@ This repo demonstrates a basic docker app.
 
 Follow along in the detailed self-guided walk-through here: https://www.linkedin.com/pulse/containerized-apps-part-1-up-running-docker-samuel-edeh/
 
-In sum, clone the repo and follow these steps to build and run the app:
+Clone the repo and follow these steps to build and run the app:
 
 1. Move into `main`: `cd /path/to/repo/main` (pseudo-code, please change)
 2. Build the app: `docker build --tag helloapp:1.0 .`
