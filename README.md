@@ -2,7 +2,7 @@
 
 This repo demonstrates a basic docker app. 
 
-Follow along in the detailed self-guided walk-through here: https://www.linkedin.com/pulse/containerized-apps-part-1-up-running-docker-samuel-edeh/
+Follow along in the detailed step-by-step guide here: https://www.linkedin.com/pulse/containerized-apps-part-1-up-running-docker-samuel-edeh/
 
 Clone the repo and follow these steps to build and run the app:
 
